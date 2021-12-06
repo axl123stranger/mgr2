@@ -13,8 +13,8 @@ class Pliki(models.Model):
     kamera_zwykla = models.CharField(max_length=50)
     kamera_szybka = models.CharField(max_length=50)
     kamera_ir = models.CharField(max_length=50)
-    kamera_ir_szybka = models.CharField(max_length=50)
     zdjecie = models.CharField(max_length=50)
+    link = models.CharField(max_length=50)
     proba_strzelnicza_id_proby = models.IntegerField()
 
 
