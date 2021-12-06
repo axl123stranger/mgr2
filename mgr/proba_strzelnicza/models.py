@@ -17,7 +17,8 @@ class Pliki(models.Model):
     link = models.CharField(max_length=50)
     proba_strzelnicza_id_proby = models.IntegerField()
 
-
+    def __str__(self):
+        return f"{self.id_proby}"
 
 class Pocisk(models.Model):
     id = models.AutoField(db_column='ID', primary_key=True)  # Field name made lowercase.
@@ -69,6 +70,7 @@ class ProbaStrzelnicza(models.Model):
     podloze = models.ForeignKey(Podloza, models.DO_NOTHING)
     rykoszet = models.ForeignKey('Rykoszet', models.DO_NOTHING)
     czynnik = models.ForeignKey(Czynniki, models.DO_NOTHING)
+    link = models.CharField(max_length=80)
     def __str__(self):
         return f"{self.id_proby} ({self.id_bron}, {self.id_pocisk})"
 

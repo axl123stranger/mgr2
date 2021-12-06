@@ -15,6 +15,11 @@
         <li>Podłoże na którym odbywa się próba: {{ proba_strzelnicza.podloze}}</li>
         <li>Czy doszło do rykoszetu: {{ proba_strzelnicza.rykoszet }}</li>
         <li>Czynnik wypełniający pojemnik: {{ proba_strzelnicza.czynnik }}</li>
+        <li>Więcej informacji o użytym rodzaju broni:
+            <a href="{{ proba_strzelnicza.link }}">
+                <button>Kliknij tutaj</button>
+            </a>
+        </li>
     </ul>
     <a href="{% url 'index' %}">Wstecz</a>
 {% endblock %}
