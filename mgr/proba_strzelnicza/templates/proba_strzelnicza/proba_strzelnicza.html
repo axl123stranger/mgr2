@@ -1,0 +1,20 @@
+{% extends "proba_strzelnicza/layout.html" %}
+
+{% block body %}
+
+    <h1>Proba {{ proba_strzelnicza.id_proby }}</h1>
+
+    <ul>
+
+        <li>Bron: {{ proba_strzelnicza.id_bron }}</li>
+        <li>Kaliber: {{ proba_strzelnicza.id_pocisk }}</li>
+        <li>Temperatura: {{ proba_strzelnicza.temperatura }} stopni Celcjusza</li>
+        <li>Warunki atmosferyczne: {{ proba_strzelnicza.warunki_atmosferyczne }}</li>
+        <li>Prędkość wiatru: {{ proba_strzelnicza.predkosc_wiatru }} km/h</li>
+        <li>Rodzaj zbiornika do którego oddawany jest strzał: {{ proba_strzelnicza.material }}</li>
+        <li>Podłoże na którym odbywa się próba: {{ proba_strzelnicza.podloze}}</li>
+        <li>Czy doszło do rykoszetu: {{ proba_strzelnicza.rykoszet }}</li>
+        <li>Czynnik wypełniający pojemnik: {{ proba_strzelnicza.czynnik }}</li>
+    </ul>
+    <a href="{% url 'index' %}">Wstecz</a>
+{% endblock %}
