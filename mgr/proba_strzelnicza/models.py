@@ -14,8 +14,7 @@ class Pliki(models.Model):
     kamera_szybka = models.CharField(max_length=50)
     kamera_ir = models.CharField(max_length=50)
     zdjecie = models.CharField(max_length=50)
-    link = models.CharField(max_length=50)
-    proba_strzelnicza_id_proby = models.IntegerField()
+
 
     def __str__(self):
         return f"{self.id_proby}"
