@@ -13,6 +13,11 @@
             </a>
         </li>
         <li>Kaliber: {{ proba_strzelnicza.id_pocisk }}</li>
+        <li>Więcej informacji o użytym rodzaju kalibra:
+            <a href="{{ proba_strzelnicza.link_kaliber }}">
+                <button>Kliknij tutaj</button>
+            </a>
+        </li>
         <li>Temperatura: {{ proba_strzelnicza.temperatura }} stopni Celcjusza</li>
         <li>Warunki atmosferyczne: {{ proba_strzelnicza.warunki_atmosferyczne }}</li>
         <li>Prędkość wiatru: {{ proba_strzelnicza.predkosc_wiatru }} km/h</li>
@@ -25,7 +30,7 @@
     <h2>Czynnik: {{ proba_strzelnicza.czynnik }}</h2>
     <ul>
         <li>Gestość czynnika: kg/m^3</li>
-        <li>Temperatura czynnika: {{ Czynniki.temperatura }} stopni Celcjusza</li>
+        <li>Temperatura czynnika: {{ proba_strzelnicza.czynnik }} stopni Celcjusza</li>
         <li>Wypełnienie ostrzeliwanego pojemnika: {{ Czynniki.wypelnienie }} %</li>
     </ul>
     <a href="{% url 'index' %}">Wstecz</a>

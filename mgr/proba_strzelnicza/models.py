@@ -69,6 +69,7 @@ class ProbaStrzelnicza(models.Model):
     rykoszet = models.ForeignKey('Rykoszet', models.DO_NOTHING)
     czynnik = models.ForeignKey(Czynniki, models.DO_NOTHING)
     link = models.CharField(max_length=80)
+    link_kaliber = models.CharField(max_length=80, default=1)
     kamera_ir = models.CharField(max_length=50, default=1)
     def __str__(self):
         return f"{self.id_proby} ({self.id_bron}, {self.id_pocisk})"

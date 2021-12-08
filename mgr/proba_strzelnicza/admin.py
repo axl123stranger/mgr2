@@ -1,8 +1,10 @@
 from django.contrib import admin
-#import models
+
 from .models import *
 
-# Register your models here.
+
+
+
 admin.site.register(Pliki)
 admin.site.register(Pocisk)
 admin.site.register(Bron)
