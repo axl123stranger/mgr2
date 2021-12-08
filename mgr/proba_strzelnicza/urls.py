@@ -20,5 +20,4 @@ from . import views
 urlpatterns = [
     path("", views.index, name="index"),
     path("<int:id_proby>", views.proba_strzelnicza, name="proba_strzelnicza"),
-    path("<int:czynnik>", views.Czynniki, name="czynniki")
 ]
