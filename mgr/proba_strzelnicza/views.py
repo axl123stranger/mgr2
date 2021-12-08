@@ -16,4 +16,8 @@ def proba_strzelnicza(request, id_proby):
     proba_strzelnicza = ProbaStrzelnicza.objects.get(pk=id_proby)
     return render(request, "proba_strzelnicza/proba_strzelnicza.html", {
         "proba_strzelnicza": proba_strzelnicza
+
+
+
+
     })
