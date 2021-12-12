@@ -27,11 +27,11 @@
         <li>Czynnik wypełniający pojemnik: {{ proba_strzelnicza.czynnik }}</li>
         <li>Rodzaj kamery IR: {{ proba_strzelnicza.kamera_ir }}</li>
     </ol>
-    <h2>Czynnik: {{ proba_strzelnicza.czynnik }}</h2>
+    <h2>Czynnik wypełniający zbiornik ({{ proba_strzelnicza.material}}): {{ proba_strzelnicza.czynnik }}</h2>
     <ul>
-        <li>Gestość czynnika: kg/m^3</li>
-        <li>Temperatura czynnika: {{ proba_strzelnicza.czynnik }} stopni Celcjusza</li>
-        <li>Wypełnienie ostrzeliwanego pojemnika: {{ Czynniki.wypelnienie }} %</li>
+        <li>Gestość czynnika: {{ proba_strzelnicza.czynnik.parametr }} kg/m^3</li>
+        <li>Temperatura czynnika: {{proba_strzelnicza.czynnik.temperatura }} stopni Celcjusza</li>
+        <li>Wypełnienie ostrzeliwanego pojemnika: {{ proba_strzelnicza.czynnik.wypelnienie }} %</li>
     </ul>
     <a href="{% url 'index' %}">Wstecz</a>
 {% endblock %}

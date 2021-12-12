@@ -13,7 +13,7 @@ def index(request):
 
 
 def proba_strzelnicza(request, id_proby):
-    proba_strzelnicza = ProbaStrzelnicza.objects.get(pk=id_proby)
+    proba_strzelnicza = ProbaStrzelnicza.objects.filter(id_proby=id_proby).select_related('czynnik')[0]
     return render(request, "proba_strzelnicza/proba_strzelnicza.html", {
         "proba_strzelnicza": proba_strzelnicza
 

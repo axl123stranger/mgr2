@@ -34,8 +34,8 @@ class Bron(models.Model):
 
 class Czynniki(models.Model):
     id = models.AutoField(db_column='ID', primary_key=True)  # Field name made lowercase.
-    czynnik = models.CharField(max_length=50, null=False)
-    parametr = models.CharField(max_length=50, null=False)
+    czynnik = models.CharField(max_length=50)
+    parametr = models.CharField(max_length=50)
     temperatura = models.IntegerField()
     wypelnienie = models.FloatField()
 
