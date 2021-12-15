@@ -6,32 +6,40 @@
     <h2>Dane</h2>
     <ol>
 
-        <li>Bron: {{ proba_strzelnicza.id_bron }}</li>
+        <li>Bron:<div style="font-weight:bold">{{ proba_strzelnicza.id_bron }}</div>
+        </li>
         <li>Więcej informacji o użytym rodzaju broni:
             <a href="{{ proba_strzelnicza.link }}">
                 <button>Kliknij tutaj</button>
             </a>
         </li>
-        <li>Kaliber: {{ proba_strzelnicza.id_pocisk }}</li>
+        <li>Kaliber: <div style="font-weight:bold">{{ proba_strzelnicza.id_pocisk }}</div></li>
         <li>Więcej informacji o użytym rodzaju kalibra:
             <a href="{{ proba_strzelnicza.link_kaliber }}">
                 <button>Kliknij tutaj</button>
             </a>
         </li>
-        <li>Temperatura: {{ proba_strzelnicza.temperatura }} stopni Celcjusza</li>
-        <li>Warunki atmosferyczne: {{ proba_strzelnicza.warunki_atmosferyczne }}</li>
-        <li>Prędkość wiatru: {{ proba_strzelnicza.predkosc_wiatru }} km/h</li>
-        <li>Rodzaj zbiornika do którego oddawany jest strzał: {{ proba_strzelnicza.material }}</li>
-        <li>Podłoże na którym odbywa się próba: {{ proba_strzelnicza.podloze}}</li>
-        <li>Czy doszło do rykoszetu: {{ proba_strzelnicza.rykoszet }}</li>
-        <li>Czynnik wypełniający pojemnik: {{ proba_strzelnicza.czynnik }}</li>
-        <li>Rodzaj kamery IR: {{ proba_strzelnicza.kamera_ir }}</li>
+        <style>
+            div{
+                font-weight: bold;
+        }
+        </style>
+
+
+        <li>Temperatura:<div> {{ proba_strzelnicza.temperatura }} stopni Celcjusza</div></li>
+        <li>Warunki atmosferyczne:<div> {{ proba_strzelnicza.warunki_atmosferyczne }}</div></li>
+        <li>Prędkość wiatru:<div> {{ proba_strzelnicza.predkosc_wiatru }} km/h</div></li>
+        <li>Rodzaj zbiornika do którego oddawany jest <div> {{ proba_strzelnicza.material }}</div></li>
+        <li>Podłoże na którym odbywa się próba:<div> {{ proba_strzelnicza.podloze}}</div></li>
+        <li>Czy doszło do rykoszetu:<div> {{ proba_strzelnicza.rykoszet }}</li>
+        <li>Czynnik wypełniający pojemnik:<div> {{ proba_strzelnicza.czynnik }}</div></li>
+        <li>Rodzaj kamery IR:<div> {{ proba_strzelnicza.kamera_ir }}</div></li>
     </ol>
     <h3>Czynnik wypełniający zbiornik ({{ proba_strzelnicza.material}}): {{ proba_strzelnicza.czynnik }}</h3>
     <ul>
-        <li>Gestość czynnika: {{ proba_strzelnicza.czynnik.parametr }} kg/m^3</li>
-        <li>Temperatura czynnika: {{proba_strzelnicza.czynnik.temperatura }} stopni Celcjusza</li>
-        <li>Wypełnienie ostrzeliwanego pojemnika: {{ proba_strzelnicza.czynnik.wypelnienie }} %</li>
+        <li>Gestość czynnika:<div> {{ proba_strzelnicza.czynnik.parametr }} kg/m^3</div></li>
+        <li>Temperatura czynnika:<div> {{proba_strzelnicza.czynnik.temperatura }} stopni Celcjusza</div></li>
+        <li>Wypełnienie ostrzeliwanego pojemnika:<div> {{ proba_strzelnicza.czynnik.wypelnienie }} %</div></li>
     </ul>
     <a href="{% url 'index' %}">Wstecz</a>
 {% endblock %}
