@@ -2,8 +2,8 @@
 
 {% block body %}
 
-    <h1>Proba {{ proba_strzelnicza.id_proby }}</h1>
-
+    <h1 style="text-align: center; font-size: 40px;">Proba {{ proba_strzelnicza.id_proby }}</h1>
+    <h2>Dane</h2>
     <ol>
 
         <li>Bron: {{ proba_strzelnicza.id_bron }}</li>
@@ -27,7 +27,7 @@
         <li>Czynnik wypełniający pojemnik: {{ proba_strzelnicza.czynnik }}</li>
         <li>Rodzaj kamery IR: {{ proba_strzelnicza.kamera_ir }}</li>
     </ol>
-    <h2>Czynnik wypełniający zbiornik ({{ proba_strzelnicza.material}}): {{ proba_strzelnicza.czynnik }}</h2>
+    <h3>Czynnik wypełniający zbiornik ({{ proba_strzelnicza.material}}): {{ proba_strzelnicza.czynnik }}</h3>
     <ul>
         <li>Gestość czynnika: {{ proba_strzelnicza.czynnik.parametr }} kg/m^3</li>
         <li>Temperatura czynnika: {{proba_strzelnicza.czynnik.temperatura }} stopni Celcjusza</li>
