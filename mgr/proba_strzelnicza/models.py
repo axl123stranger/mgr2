@@ -12,7 +12,7 @@ class Pliki(models.Model):
     id_proby = models.OneToOneField('ProbaStrzelnicza', models.DO_NOTHING, db_column='id_proby', primary_key=True)
    # kamera_zwykla = models.CharField(max_length=50)
    # kamera_szybka = models.CharField(max_length=50)
-    zdjecie = models.CharField(max_length=50)
+    zdjecie = models.ImageField(null=True, blank=True, upload_to="images/")
 
 
     def __str__(self):
