@@ -10,10 +10,10 @@ from django.db import models
 
 class Pliki(models.Model):
     id_proby = models.OneToOneField('ProbaStrzelnicza', models.DO_NOTHING, db_column='id_proby', primary_key=True)
-   # kamera_zwykla = models.CharField(max_length=50)
-   # kamera_szybka = models.CharField(max_length=50)
+    kamera_zwykla = models.CharField(max_length=50, default=1)
+    kamera_szybka = models.CharField(max_length=50, default=1)
     zdjecie = models.ImageField(null=True, blank=True, upload_to="images/")
-
+    kamera_ir = models.CharField(max_length=50, default=1)
 
     def __str__(self):
         return f"{self.id_proby}"
@@ -70,7 +70,7 @@ class ProbaStrzelnicza(models.Model):
     czynnik = models.ForeignKey(Czynniki, models.DO_NOTHING)
     link = models.CharField(max_length=80)
     link_kaliber = models.CharField(max_length=80, default=1)
-    kamera_ir = models.CharField(max_length=50, default=1)
+
     def __str__(self):
         return f"{self.id_proby} ({self.id_bron}, {self.id_pocisk})"
 

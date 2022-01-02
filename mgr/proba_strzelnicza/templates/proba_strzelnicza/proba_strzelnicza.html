@@ -5,7 +5,7 @@
     <h1 style="text-align: center; font-size: 40px;">Proba {{ proba_strzelnicza.id_proby }}</h1>
     <h2>Dane</h2>
     <ol>
-        <form method="POST" enctype="multipart/form-data">
+
         <li>Bron:<div style="font-weight:bold">{{ proba_strzelnicza.id_bron }}</div>
         </li>
         <li>Więcej informacji o użytym rodzaju broni:
@@ -33,8 +33,10 @@
         <li>Podłoże na którym odbywa się próba:<div> {{ proba_strzelnicza.podloze}}</div></li>
         <li>Czy doszło do rykoszetu:<div> {{ proba_strzelnicza.rykoszet }}</div></li>
         <li>Czynnik wypełniający pojemnik:<div> {{ proba_strzelnicza.czynnik }}</div></li>
-        <li>Rodzaj kamery IR:<div> {{ proba_strzelnicza.kamera_ir }}</div></li>
-        </form>
+        <li>Rodzaj kamery IR:<div> {{ proba_strzelnicza.pliki.kamera_ir }}</div></li>
+        <li>Rodzaj kamery zwykłej:<div> {{ proba_strzelnicza.pliki.kamera_zwykla }}</div></li>
+        <li>Rodzaj kamery szybkiej:<div> {{ proba_strzelnicza.pliki.kamera_szybka }}</div></li>
+
     </ol>
 
 
