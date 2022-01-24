@@ -25,6 +25,8 @@ class Pocisk(models.Model):
     def __str__(self):
         return f"{self.nazwa}"
 
+
+
 class Bron(models.Model):
     id = models.AutoField(db_column='ID', primary_key=True)  # Field name made lowercase.
     bron = models.TextField(db_column='Bron', unique=True)  # Field name made lowercase. This field type is a guess.
@@ -73,6 +75,7 @@ class ProbaStrzelnicza(models.Model):
 
     def __str__(self):
         return f"{self.id_proby} ({self.id_bron}, {self.id_pocisk})"
+
 
 
 
