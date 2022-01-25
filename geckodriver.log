@@ -516,15 +516,18 @@ LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-
 DevTools listening on ws://localhost:56541/devtools/browser/3e7fa0ad-4968-4b3d-b3ce-a2972d9f4e94
 1643044886639	Marionette	INFO	Listening on port 56546
 1643044886750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1643045136056	geckodriver	INFO	Listening on 127.0.0.1:56607
-1643045139156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56608" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofilezVu6Ps"
-1643045139667	Marionette	INFO	Marionette enabled
+1643049907960	Marionette	INFO	Stopped listening on port 56546
 LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
 LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
@@ -539,3 +542,14 @@ LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-
 DevTools listening on ws://localhost:56608/devtools/browser/90740a9d-f689-46da-a985-1fea2a8c309e
 1643045142243	Marionette	INFO	Listening on port 56613
 1643045142341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643049907081	Marionette	INFO	Stopped listening on port 56613
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
