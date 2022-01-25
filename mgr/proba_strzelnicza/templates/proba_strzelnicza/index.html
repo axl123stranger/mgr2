@@ -6,7 +6,7 @@
     <ul style="font-size: 24px;">
         {% for proba in proba_strzelnicza %}
             <li>
-               <a href="{% url 'proba_strzelnicza' proba.id_proby %}">
+               <a href="{% url 'proba_strzelnicza' proba.id_proby %}", name="s">
                    Proba {{ proba.id_proby }}: Kaliber: {{ proba.id_pocisk }}, Model broni: {{ proba.id_bron }}</a>
             </li>
 

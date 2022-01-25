@@ -33,8 +33,16 @@
         <li>Podłoże na którym odbywa się próba:<div> {{ proba_strzelnicza.podloze}}</div></li>
         <li>Czy doszło do rykoszetu:<div> {{ proba_strzelnicza.rykoszet }}</div></li>
         <li>Czynnik wypełniający pojemnik:<div> {{ proba_strzelnicza.czynnik }}</div></li>
-        <li>Rodzaj kamery IR:<div> {{ proba_strzelnicza.kamera_ir }}</div></li>
+        <li>Rodzaj kamery IR:<div> {{ proba_strzelnicza.pliki.kamera_ir }}</div></li>
+        <li>Rodzaj kamery zwykłej:<div> {{ proba_strzelnicza.pliki.kamera_zwykla }}</div></li>
+        <li>Rodzaj kamery szybkiej:<div> {{ proba_strzelnicza.pliki.kamera_szybka }}</div></li>
+
     </ol>
+
+
+    <img src="{{  proba_strzelnicza.pliki.zdjecie  }}">
+
+
     <h3>Czynnik wypełniający zbiornik ({{ proba_strzelnicza.material}}): {{ proba_strzelnicza.czynnik }}</h3>
     <ul>
         <li>Gestość czynnika:<div> {{ proba_strzelnicza.czynnik.parametr }} kg/m^3</div></li>

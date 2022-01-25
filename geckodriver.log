@@ -1,0 +1,555 @@
+1642871144895	geckodriver	INFO	Listening on 127.0.0.1:50015
+1642871148147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50016" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofilewiZpYu"
+1642871149785	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofilewiZpYu\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50016/devtools/browser/fe51e1aa-71ca-4a01-b69c-62bf1a19ed38
+1642871152437	Marionette	INFO	Listening on port 50022
+1642871152522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871168023	Marionette	INFO	Stopped listening on port 50022
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642871208250	geckodriver	INFO	Listening on 127.0.0.1:50098
+1642871211337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50099" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileHl6u6t"
+1642871211827	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileHl6u6t\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50099/devtools/browser/17f79afd-753a-4f8e-8c68-5441782e4956
+1642871214099	Marionette	INFO	Listening on port 50104
+1642871214519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871765667	Marionette	INFO	Stopped listening on port 50104
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofilesNpVOU\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50157/devtools/browser/4812796d-c4d2-4238-862b-c629f24f33fb
+1642871249438	Marionette	INFO	Listening on port 50165
+1642871249699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871253026	Marionette	INFO	Stopped listening on port 50165
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642871288079	geckodriver	INFO	Listening on 127.0.0.1:50203
+1642871291117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50204" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileCSov50"
+1642871291643	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileCSov50\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50204/devtools/browser/9aaeec44-8137-4ee6-88fb-f7c793bb36df
+1642871293999	Marionette	INFO	Listening on port 50209
+1642871294310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871299031	Marionette	INFO	Stopped listening on port 50209
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642871350972	geckodriver	INFO	Listening on 127.0.0.1:50255
+1642871354052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50256" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileTQQtB8"
+1642871354547	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileTQQtB8\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50256/devtools/browser/fbc8dfad-d2c0-47a8-a6c7-4d89b7ae1dc2
+1642871357006	Marionette	INFO	Listening on port 50268
+1642871357237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871766354	Marionette	INFO	Stopped listening on port 50268
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileyIg5Hf\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:50417/devtools/browser/232117ac-7c45-4a71-abae-6eb292cb67d6
+1642871720643	Marionette	INFO	Listening on port 50422
+1642871720901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642871722167	Marionette	INFO	Stopped listening on port 50422
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643042569676	geckodriver	INFO	Listening on 127.0.0.1:55825
+1643042572777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55826" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileGqmYsT"
+1643042574293	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileGqmYsT\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:55826/devtools/browser/096b47b0-1b0c-41db-8b59-cc8ae5fedbd5
+1643042577297	Marionette	INFO	Listening on port 55831
+1643042577622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643042587265	Marionette	INFO	Stopped listening on port 55831
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[Parent 10060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643042715970	geckodriver	INFO	Listening on 127.0.0.1:55915
+1643042719056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55916" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileFdCX6z"
+1643042719650	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileFdCX6z\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:55916/devtools/browser/b32d269a-03a5-4f15-b4a1-57f380e24e7a
+1643042722329	Marionette	INFO	Listening on port 55921
+1643042722752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643042729157	Marionette	INFO	Stopped listening on port 55921
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643043295857	geckodriver	INFO	Listening on 127.0.0.1:56041
+1643043298961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56042" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileEt5sTY"
+1643043299533	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileEt5sTY\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56042/devtools/browser/53cf3080-547b-4618-b7d5-3713552925d5
+1643043302046	Marionette	INFO	Listening on port 56047
+1643043302129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643043305776	Marionette	INFO	Stopped listening on port 56047
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044155903	geckodriver	INFO	Listening on 127.0.0.1:56187
+1643044159027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56188" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileiNIZSu"
+1643044159581	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileiNIZSu\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56188/devtools/browser/b5666cef-47be-42ed-a1ee-f148982aabd6
+1643044162108	Marionette	INFO	Listening on port 56193
+1643044162236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044173446	Marionette	INFO	Stopped listening on port 56193
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044200173	geckodriver	INFO	Listening on 127.0.0.1:56247
+1643044203279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56248" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileElgXeJ"
+1643044203806	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileElgXeJ\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56248/devtools/browser/04e114dc-f16b-4c2e-bcb4-6444ca647f63
+1643044206169	Marionette	INFO	Listening on port 56253
+1643044206481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044213798	Marionette	INFO	Stopped listening on port 56253
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044232647	geckodriver	INFO	Listening on 127.0.0.1:56292
+1643044235731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56293" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile4n29PO"
+1643044236230	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofile4n29PO\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56293/devtools/browser/3fc69fdc-3605-480c-9f13-a7823eae7cc0
+1643044238671	Marionette	INFO	Listening on port 56298
+1643044238902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044248447	Marionette	INFO	Stopped listening on port 56298
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044275965	geckodriver	INFO	Listening on 127.0.0.1:56338
+1643044279076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56339" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile1CoByM"
+1643044279574	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofile1CoByM\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56339/devtools/browser/b753f9d0-5410-4888-9c4c-1b7caf0682e0
+1643044282018	Marionette	INFO	Listening on port 56344
+1643044282266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044287126	Marionette	INFO	Stopped listening on port 56344
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044359320	geckodriver	INFO	Listening on 127.0.0.1:56397
+1643044362441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56398" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileHqxyIS"
+1643044362961	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileHqxyIS\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56398/devtools/browser/08792c2a-ed9a-4ca2-9c25-412438a483af
+1643044365320	Marionette	INFO	Listening on port 56403
+1643044365627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044368822	Marionette	INFO	Stopped listening on port 56403
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044539581	geckodriver	INFO	Listening on 127.0.0.1:56452
+1643044542678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56453" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileyIHOWS"
+1643044543164	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileyIHOWS\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56453/devtools/browser/ff37d262-49ce-40d6-bbc0-5cc9f8f8898c
+1643044545530	Marionette	INFO	Listening on port 56458
+1643044545866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643044555925	Marionette	INFO	Stopped listening on port 56458
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044880501	geckodriver	INFO	Listening on 127.0.0.1:56540
+1643044883574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56541" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileTDgwy9"
+1643044884065	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofileTDgwy9\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56541/devtools/browser/3e7fa0ad-4968-4b3d-b3ce-a2972d9f4e94
+1643044886639	Marionette	INFO	Listening on port 56546
+1643044886750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643049907960	Marionette	INFO	Stopped listening on port 56546
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sebastian\\AppData\\Local\\Temp\\rust_mozprofilezVu6Ps\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+DevTools listening on ws://localhost:56608/devtools/browser/90740a9d-f689-46da-a985-1fea2a8c309e
+1643045142243	Marionette	INFO	Listening on port 56613
+1643045142341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643049907081	Marionette	INFO	Stopped listening on port 56613
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimic2devprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimic2osd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

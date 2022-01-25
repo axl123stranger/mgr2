@@ -55,7 +55,7 @@ ROOT_URLCONF = 'mgr.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["proba_strzelnicza"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
